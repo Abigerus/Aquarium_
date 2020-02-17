@@ -1,0 +1,18 @@
+﻿Сборка начата 17.02.2020 19:51:24.
+     1>Проект "C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Aquaruim_\Aquaruim_.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\SFML-2.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Aquarium.cpp
+         Aquarium.cpp
+     1>c:\users\александр\documents\visual studio 2013\projects\2 курс\aquaruim_\aquaruim_\aquarium.h(156): warning C4099: aquarium::Location: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+                 c:\users\александр\documents\visual studio 2013\projects\2 курс\aquaruim_\aquaruim_\aquarium.h(29): см. объявление "aquarium::Location"
+     1>c:\users\александр\documents\visual studio 2013\projects\2 курс\aquaruim_\aquaruim_\aquarium.cpp(99): warning C4244: аргумент: преобразование "const double" в "unsigned int", возможна потеря данных
+     1>c:\users\александр\documents\visual studio 2013\projects\2 курс\aquaruim_\aquaruim_\aquarium.cpp(119): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+     1>c:\users\александр\documents\visual studio 2013\projects\2 курс\aquaruim_\aquaruim_\aquarium.cpp(135): warning C4244: аргумент: преобразование "const double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Debug\Aquaruim_.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Debug\Aquaruim_.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Debug\Aquaruim_.lib" /MACHINE:X86 Debug\Aquarium.obj
+         Aquaruim_.vcxproj -> C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Debug\Aquaruim_.exe
+     1>Сборка проекта "C:\Users\Александр\Documents\Visual Studio 2013\Projects\2 курс\Aquaruim_\Aquaruim_\Aquaruim_.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.38
